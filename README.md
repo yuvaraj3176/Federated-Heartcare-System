@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 141029" src="https://github.com/user-attachments/assets/36540ec8-230a-4a4e-b6f9-5c7c9b9c1b60" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 141047" src="https://github.com/user-attachments/assets/13618a3a-31c0-45c8-947b-625c23a2c938" />
 # Federated HeartCare System 
 
 -> Project Overview
